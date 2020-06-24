@@ -144,6 +144,15 @@ pre {
   text-decoration: underline;
 }
 
+/* locations */
+#hero {
+  background: var(--gray)
+}
+#hero h1 {
+  padding: 200px 10px 10px 10px;
+  color: var(--white);
+}
+
 /* Posts list */
 .postlist {
   list-style: none;
